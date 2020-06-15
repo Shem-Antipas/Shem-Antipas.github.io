@@ -1,0 +1,16 @@
+/* line 2, about_me.css.scss */
+.about_me .details {
+  text-align: left; }
+/* line 6, about_me.css.scss */
+.about_me .profile-pic {
+  width: 70%; }
+/*s
+.about_me .nav {
+  position: absolute;
+  display: flex;
+  flex: auto;
+  align-items: center;
+  padding-right: 15px;
+  right: 0;
+  height: 60px; }
+*/

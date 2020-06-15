@@ -1,0 +1,13 @@
+/* line 2, skills.css.scss */
+.skills p {
+  display: inline-block;
+  margin: 0; }
+/* line 7, skills.css.scss */
+.skills .skill {
+  margin: 0.3em 0; }
+/* line 11, skills.css.scss */
+.skills .skill-name {
+  float: left; }
+/* line 15, skills.css.scss */
+.skills .skill-lvl {
+  float: right; }

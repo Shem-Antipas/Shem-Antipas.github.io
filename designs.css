@@ -1,0 +1,8 @@
+/* line 1, designs.css.scss */
+.designs {
+  text-align: center; }
+  /* line 3, designs.css.scss */
+  .designs .images img {
+    width: 100%;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    margin: 1em; }
